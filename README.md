@@ -22,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# hello-world
-# sample_app 
-# sample_app
